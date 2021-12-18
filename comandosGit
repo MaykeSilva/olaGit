@@ -1,0 +1,30 @@
+------------------------------------------------------------> COMANDOS GIT HUB
+|
+------------------------------------------------------------> CLONAR UM REPOSITORIO
+|
+|	git clone LINK_REPOSITORIO
+|
+------------------------------------------------------------> VERIFICAR A SITUAÇÃO DO REPOSITORIO EM RELAÇÃO ÀS ATUALIZAÇÕES
+|
+|	git status
+|		
+------------------------------------------------------------> VERIFICAR OS LOGS NO REPOSITORIO
+|
+|	git log
+|
+------------------------------------------------------------> ADICIONAR OS ARQUIVOS EM UM "PACOTE" PARA ENVIAR PARA O REPOSITORIO
+------------------------------------------------------------> usar . (ponto) para todos os arquivos ou especificar o arquivo informando o nome
+|
+|	git add .
+|
+------------------------------------------------------------> ENVIAR O ARQUIVO PARA ÁREA DE CONTROLE DE VERSÕES
+|
+|	git commit -m "MENSAGEM_PARA_IDENTIFICAR_COMMIT"
+|
+------------------------------------------------------------> ENVIAR OS ARQUIVOS PARA O REPOSITORIO
+|
+|	git push origin main
+|
+------------------------------------------------------------> ATUALIZAR ARQUIVOS NO COMPUTADOR
+|
+| git pull origin main
