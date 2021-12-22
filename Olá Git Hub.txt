@@ -1,2 +1,2 @@
-"Olá Git Hub."
+"Olá Git Hub"
 "Esse é o meu primeiro commit"
